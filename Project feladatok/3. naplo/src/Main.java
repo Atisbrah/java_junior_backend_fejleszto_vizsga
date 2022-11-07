@@ -3,7 +3,7 @@ import java.util.*;
 public class Main {
 
     public static Random rnd=new Random();
-    
+
     public static List<int[]> Naplo = new ArrayList<>();
 
     public static void main(String[] args) {
